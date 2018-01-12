@@ -6,8 +6,5 @@ Note that the code only follows a specific format, so this is not for universal 
 
 If you have any concerns, or you would like to use this code, please contact me.
 
-Winnie Wang,
-
-Undergrad. Research Assistant
-
+Winnie Wang, Undergrad. Research Assistant
 Dept. of Physics and Astronomy, University of Washington
