@@ -4,4 +4,5 @@ This GitHub contains the code that I had used to analyze the .ROOT simulation fi
 
 Note that the code only follows a specific format, so this is not for universal use. If you have any concerns, or you would like to use this code, please contact me.
 
-Winnie Wang, Undergrad. Research Assistant, University of Washington
+Winnie Wang
+University of Washington
